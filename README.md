@@ -1,4 +1,4 @@
-# Circle of Riches!
+# Diceroll of Riches!
 Welcome to the game that lets contestants face each other in a letter-guessing, phrase-deducing battle of **_RICHES_** and **_LUXURY_**!
 
 ## What is this game?
@@ -27,4 +27,4 @@ This is a web-based application that will hopefully be fairly straightforward as
 
 ## Enough, already! Where do I go to play?
 
-[Ctrl+click here to open the game in a new browser tab!](https://cohort13project2group6.herokuapp.com/ "Circle of Riches on Heroku")
+[Ctrl+click here to open the game in a new browser tab!](https://diceroll-of-riches-ag.herokuapp.com/ "Circle of Riches on Heroku")
